@@ -33,3 +33,10 @@ La arquitectura está compuesta por tres niveles principales:
 3. **Plataforma Global Ubidots**  
    Encargada de visualizar variables ambientales, histórico reciente, índice de riesgo y recomendaciones generadas por IA.
 
+---
+
+## Video Demostrativo
+
+El funcionamiento completo del sistema puede observarse en el siguiente video:
+
+[Ver video demostrativo del proyecto](https://youtu.be/7Rk_wSKeCNo)
